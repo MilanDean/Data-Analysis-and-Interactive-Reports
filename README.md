@@ -7,3 +7,11 @@ For this project at work I was tasked to develop an interactive report for an au
 
 
 ![Imgur](https://i.imgur.com/f8jUS3m.jpg)
+
+
+
+## Sales Insights Report
+
+Additional insights report developed for our client analyzing their Q4 earnings from social media marketing campaigns.
+
+![Imgur](https://i.imgur.com/YfULAED.jpg)
