@@ -3,4 +3,4 @@ Previous work done showing the development of interactive dashboards and reports
 
 
 
-![CB Interactive Report](https://ibb.co/nRm0DQc)
+![CB Interactive Report](https://imgur.com/f8jUS3m)
