@@ -12,6 +12,6 @@ For this project at work I was tasked to develop an interactive report for an au
 
 ## Sales Insights Report
 
-Additional insights report developed for our client analyzing their historic earnings from our social media marketing campaigns.
+Additional insights report developed for a client analyzing their historic earnings from our social media marketing campaigns.
 
 ![Imgur](https://i.imgur.com/YfULAED.jpg)
