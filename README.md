@@ -20,6 +20,12 @@ Additional insights report developed for a client analyzing their historic earni
 ![Imgur](https://i.imgur.com/YfULAED.jpg)
 
 
+## Sales Insights Report
+
+Insights report visualizing the difference in spend for a client between the years 2017 and 2018, and noting changes seen between years. Purpose of the report was to highlight that after the first year we were able to drive down our average cost per click while spending the majority of our budget in "Cold" audiences, or people who aren't familiar with the brand. This is due to the notion that solely targeting returning customers eventually exhausts your consumer base, and results in diminishing returns. For a company hoping to scale fast, we needed to diversify our targeting in order to effectively drive new people into the sales funnel.
+
+![Imgur](https://i.imgur.com/uazhZIZ.jpg)
+
 
 ## First-time Customer Data Analysis
 
