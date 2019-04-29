@@ -31,6 +31,6 @@ Insights report visualizing the difference in spend for a client between the yea
 
 This project involved pulling data from our social media marketing campaigns and analyzing the trends seen between advertising spend and first time customer purchases, in order to determine the effectiveness of the marketing campaigns that were live. Once data was normalized, outliers were ruled out and a correlation analysis was done to show a statistical significance between the monthly advertising spend and monthly sales. A weakly positive correlation between daily ad spend and sales were shown as well, but was later explained to be expected since customer behavior fluctuates dramatically depending on the varying types of ads shown. Images below are samples taken from the project, completed in Jupyter Notebooks.
 
-![Imgur](https://i.imgur.com/7JB8irO.jpg)
 ![Imgur](https://i.imgur.com/u7XpNWI.jpg)
+![Imgur](https://i.imgur.com/KLpKBiV.jpg)
 ![Imgur](https://i.imgur.com/NAlpPtp.jpg)
