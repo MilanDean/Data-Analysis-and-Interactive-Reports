@@ -1,5 +1,5 @@
 # Data-Analysis-and-Interactive-Reports
-Analysis and transformation of data done as an analyst for a start-up advertising agency.
+Examples of Analysis and transformation of data done as an analyst for a start-up advertising agency.
 
 
 
