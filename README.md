@@ -7,7 +7,7 @@ Examples of Analysis and transformation of data done as an analyst for a start-u
 
 ## Internal Machine Learning Insights Dashboard
 
-For my last project, as part of a segway from an ongoing ETL project, decided to develop an internal facing test dashboard to monitor trends seen between accounts. Additionally a time-series model was deployed, Holt-Winters triple exponential smoothing to be precise, to forecast a trend in average cost of account maintenence over time. Coupled with the last visual, a k-means cluster of accounts being optimized and managed, we would be capable of seeing the similarities and differences across clusters of accounts, in order to strategize how to better operate these accounts to increase sales in the future, as well as plan what kinds of clients to onboard for optimal results.
+For my last project, as part of a segway from an ongoing ETL project, decided to develop an internal facing test dashboard to monitor trends seen between accounts as a whole, and individually. A time-series model was deployed, Holt-Winters triple exponential smoothing to be precise, to forecast a trend in average cost of account maintenence over time. Coupled with the last visual, a k-means cluster of accounts being optimized and managed, we would be capable of seeing the similarities and differences across clusters of accounts, in order to strategize how to better operate these accounts to increase sales in the future, as well as plan what kinds of clients to onboard for optimal results.
 
 ![Imgur](https://i.imgur.com/2qy9Uz4.jpg)
 
